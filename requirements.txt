@@ -17,7 +17,6 @@ keyrings.alt==3.0
 lockfile==0.12.2
 Mako==1.0.7
 MarkupSafe==1.1.0
-mercurial==4.5.3
 monotonic==1.0
 numpy==1.13.3
 pycairo==1.16.2
