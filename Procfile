@@ -1,1 +1,1 @@
-web: gunicorn app:fyle
+web: gunicorn app:app
